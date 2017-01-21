@@ -4,6 +4,7 @@ My name is Mareva Brixy and I am an engineer student at Supelec (a french engine
 
 ### Projects
 Here are some of my projects, click on it to know more about it !
+
 - [Implementation of Multilayer Neural Network](http://marevab.github.io/ANN)
 
 ### Contact
