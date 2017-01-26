@@ -1,11 +1,14 @@
 ## Welcome to my GitHub Page !
 
-My name is Mareva Brixy and I am an engineer student at Supelec (a french engineering school) and NUS (National University of Singapore). This GitHub page is a way to gather and present my academic and personal projects which are mainly focused on Machine Learning, Artificial Intelligence and Computer Vision fields. 
+My name is Mareva Brixy and I am an engineer student at Supelec (a french engineering school) and NUS (National University of Singapore). This GitHub page is a way to gather and present some of my academic and personal projects which are mainly focused on Machine Learning field.
 
 ### Projects
-Here are some of my projects, click on it to know more about it !
+Here are my projects, click on it to know more about it !
 
 - [Classification of cancerous cells with Support Vector Machine method](https://marevab.github.io/CancerousCellsSVM)
+- [Grid navigation with Reinforcement Learning](https://marevab.github.io/GridNavigationRL)
+- Handwritten number classification using Self-organising Map
+- Handwritten number classification using Radial-basis Function Network
 - [Implementation of Multilayer Neural Network](http://marevab.github.io/ANN)
 
 ### Contact
