@@ -7,8 +7,8 @@ Here are my projects, click on it to know more about it !
 
 - [Classification of cancerous cells with Support Vector Machine method](https://marevab.github.io/CancerousCellsSVM)
 - [Grid navigation with Reinforcement Learning](https://marevab.github.io/GridNavigationRL)
-- Handwritten number classification using Self-organising Map
-- Handwritten number classification using Radial-basis Function Network
+- [Self-organising Map for handwritten number classification](https://marevab.github.io/SOM)
+- [Radial-basis Function Network for handwritten number classification](https://marevab.github.io/RBFN)
 - [Implementation of Multilayer Neural Network](http://marevab.github.io/ANN)
 
 ### Contact
